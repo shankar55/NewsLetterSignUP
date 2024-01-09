@@ -1,14 +1,19 @@
-
 # NewsLetterSignUp
 
 A simple Login page is used to store the contacts of subscribers in MailChimp API.
 
 ## 🛠 Skills
-HTML,CSS,BootStrap, Node.JS,Express.JS...
+HTML, CSS, BootStrap, Node.JS, Express.JS...
 
 ## Deployment
-<p>I have used heroku to deploy this app</p>
+<p>I have used Heroku to deploy this app.</p>
 <a href="https://newsletter-signup-shankar.herokuapp.com/">NewsLetterSignUp</a>
+
+**Docker Deployment:**
+You can pull the Docker image for NewsLetterSignUp using the following command:
+```bash
+docker pull shankar55/newsletter-signup
+```
 
 ## Authors
 
@@ -17,8 +22,3 @@ HTML,CSS,BootStrap, Node.JS,Express.JS...
 ## Documentation
 
 [Documentation](https://mailchimp.com/)
-
-
-## Acknowledgements
-
- - The Complete 2022 Web Development by Angela YU.
